@@ -1,0 +1,83 @@
+/* navbar */
+.navbar {
+  background-color: #2274A5;
+}
+
+/* footer 
+.footer {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  background: #88C4E7;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 40px;
+  padding: 0px 50px;
+  color: rgba(0, 0, 0, 0.3);
+}
+
+.footer-links {
+  display: flex;
+  align-self: center;
+}
+
+.footer-links a {
+  color: black;
+  opacity: 0.15;
+  text-decoration: none;
+  font-size: 24px;
+  padding: 0px 10px;
+}
+
+.footer-links a:hover {
+  opacity: 1;
+}
+
+.footer .fa-heart {
+  color: #D23333;
+}
+*/
+
+.background-grey {
+  background-color: #f3f6f7;
+}
+
+.banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/large02.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+}
+
+.banner h1 {
+  margin: 0;
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.banner p {
+  font-size: 20px;
+  color: white;
+  opacity: .7;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+div.card img {
+  object-fit: contain;
+}
+
+.btn-petsitters {
+  background-color: #FED234;
+}
+
+.btn-petsitters:hover {
+  background-color: #FEDB5D;
+}
+
+h1, h2{
+  font-family: 'Pacifico', cursive;
+}
